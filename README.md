@@ -1,4 +1,4 @@
-# Awesome Hardware Description Languages
+# Awesome HDL、Python HDL and DSL for IC
 
 A curated list of amazingly awesome hardware description language projects.
 
@@ -95,6 +95,69 @@ A curated list of amazingly awesome hardware description language projects.
 
 * Veryl
    - [Veryl](https://github.com/dalance/veryl) - An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog
+ 
+* [autofpga](https://github.com/ZipCPU/autofpga) - C++, A utility for Composing FPGA designs from Peripherals
+* :skull: [baremetal](https://github.com/dawsonjon/baremetal) - Python, simple HCL
+* [BinPy](https://github.com/BinPy/BinPy) - Python, An electronic simulation library
+* :skull: [pervognsen/Bitwise](https://github.com/pervognsen/bitwise) - Python, HDL which translates python directly
+* :skull: [jamesjiang52/Bitwise](https://github.com/jamesjiang52/Bitwise) - Python, simple HCL.
+* [blarney](https://github.com/blarney-lang/blarney) - Haskell, HCL
+* [bsc](https://github.com/B-Lang-org/bsc) - Haskell, C++, BSV - Bluespec Compiler
+* [Cement HDL/CmtHDL](https://github.com/pku-liang/Cement) - Rust, eHDL
+* [chisel](https://chisel.eecs.berkeley.edu/) - 2012-?, Scala, HCL
+* [Chips-2.0](https://github.com/dawsonjon/Chips-2.0) - , , FPGA Design Suite based on C to Verilog design flow
+* [circt](https://github.com/llvm/circt) - 2020-?, C++/LLVM, compiler infrastructure
+* [circuitgraph](https://github.com/circuitgraph/circuitgraph) - Tools for working with circuits as graphs in python
+* [concat](https://github.com/conal/concat) - 2016-?, Haskell, Haskell to hardware
+* [DUH](https://github.com/sifive/duh) - JS, simple convertor between verilog/scala/ipxact
+* [DFiant](https://github.com/DFiantHDL/DFiant) 2019-?, Scala, dataflow based HDL
+* [edalize](https://github.com/olofk/edalize) - 2018-?, Python, abstraction layer for eda tools
+* [garnet](https://github.com/StanfordAHA/garnet) -2018-?, Python, Coarse-Grained Reconfigurable Architecture generator based on magma
+* [hammer](https://github.com/ucb-bar/hammer) - 2017-?, Python, Highly Agile Masks Made Effortlessly from RTL
+* [heterocl](https://github.com/cornell-zhang/heterocl) - 2017-?, C++, A Multi-Paradigm Programming Infrastructure for Software-Defined Reconfigurable Computing
+* [hoodlum](https://github.com/tcr/hoodlum) - 2016-?, Rust, HCL
+* [ILAng](https://github.com/Bo-Yuan-Huang/ILAng) - modeling and verification platform for SoCs where Instruction-Level Abstraction (ILA) is used as the formal model for hardware components.
+* :skull: [jhdl](https://github.com/larsjoost/jhdl) - ?-2017, C++ Verilog/VHDL -> systemC, prototype
+* [Kactus2](http://funbase.cs.tut.fi) - IP-core packager
+* [kratos](https://github.com/Kuree/kratos) - C++/Python, hardware generator/simulator
+* [lgraph](https://github.com/masc-ucsc/lgraph) - C, generic graph library
+* [llhd](https://github.com/fabianschuiki/llhd) - Rust, HCL
+* [livehd](https://github.com/masc-ucsc/livehd) - mainly C++, An infrastructure designed for Live Hardware Development.
+* [Lucid HDL in Alchitry-Labs](https://github.com/alchitry/Alchitry-Labs) - Custom language and IDE inspired by Verilog
+* [magma](https://github.com/phanrahan/magma/) - 2017-?, Python, HCL
+* [amaranth](https://github.com/amaranth-lang/amaranth)/[migen](https://github.com/m-labs/migen) - 2013-?, Python, HCL
+* [mockturtle](https://github.com/lsils/mockturtle) - logic network library
+* [moore](https://github.com/fabianschuiki/moore) - Rust, HDL -> model compiler
+* [msdsl](https://github.com/sgherbst/msdsl) - Python, real number model -> verilog
+* [MyHDL](https://github.com/myhdl/myhdl) - 2004-?, Python, Process based HDL
+* [Amaranth HDL](https://github.com/amaranth-lang/amaranth) -, Python, (previously nMigen) A refreshed Python toolbox for building complex digital hardware
+* [OpenTimer](https://github.com/OpenTimer/OpenTimer) - , C++,  A High-Performance Timing Analysis Tool for VLSI Systems
+* [percy](https://github.com/whaaswijk/percy) - Collection of different synthesizers and exact synthesis methods for use in applications such as circuit resynthesis and design exploration.
+* [PyChip-py-hcl](https://github.com/scutdig/PyChip-py-hcl) - , Python, Chisel3 like HCL
+* [pygears](https://github.com/bogdanvuk/pygears) - , Python, function style HDL generator
+* [PyMTL3](https://github.com/cornell-brg/pymtl3) 2018-?
+* [PyMTL](https://github.com/cornell-brg/pymtl) - 2014-?, Python, Process based HDL
+* [PipelineC](https://github.com/JulianKemmerer/PipelineC) - 2018-?, Python, C++ HLS-like automatic pipelining as a language construct/compiler
+* [PyRTL](https://github.com/UCSBarchlab/PyRTL) - 2015-?, Python, HCL
+* [Pyverilog](https://github.com/PyHDI/Pyverilog) - 2013-? Python-based Hardware Design Processing Toolkit for Verilog HDL
+* [rogue](https://github.com/slaclab/rogue) , C++/Python - Hardware Abstraction & Data Acquisition System
+* [rohd](https://github.com/intel/rohd), 2023-?, dart, HCL
+* [sail](https://github.com/rems-project/sail) 2018-?, (OCaml, Standard ML, Isabelle) - architecture definition language
+* :skull: [SFGen](https://github.com/dillonhuff/SFGen) - Python, arithmetic function generator
+* [spatial](https://github.com/stanford-ppl/spatial) - Scala, an Argon DSL like, high level abstraction
+* [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - 2015-?, Scala, HCL
+* [Silice](https://github.com/sylefeb/Silice) - ?, C++, Custom HDL
+* :skull: [SyDpy](https://github.com/bogdanvuk/sydpy) - ?-2016, Python, HCL and verif. framework operating on TML/RTL level
+* [systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler) - Python,c++, register description language compiler
+* [UHDM](https://github.com/alainmarcel/UHDM) - C++ SystemVerilog -> C++ model
+* :skull: [Verilog.jl](https://github.com/interplanetary-robot/Verilog.jl) - 2017-2017, Julia, simple Julia to Verilog transpiler
+* [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric HCL with HLS like features
+* :skull:  [wyre](https://github.com/nickmqb/wyre) - 2020-2020, Mupad, Minimalistic HDL
+* [phi](https://github.com/donn/Phi) - 2019-?, custom language, llvm based compiler of custom hdl
+* [prga](https://github.com/PrincetonUniversity/prga) - 2019-?. Python, prototyping platform with integrated yosys
+* [Hardcaml](https://github.com/janestreet/hardcaml) - OCaml, HCL
+* [magia-hdl](https://github.com/magia-hdl/magia) - 2023-?, Python, HCL
+* [Metron](https://github.com/aappleby/Metron) - C++, C++ -> SystemVerilog syntax translator
 
 ## HLS
 
