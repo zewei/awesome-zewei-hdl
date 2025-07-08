@@ -1,4 +1,4 @@
-# Awesome HDL、Python HDL and DSL for IC
+# Awesome HDL、Python HDL and eDSL for IC
 
 A curated list of amazingly awesome hardware description language projects.
 
@@ -262,9 +262,3 @@ A curated list of amazingly awesome hardware description language projects.
    - [Relating Actions with Dataflow Part2 -- Parallelism](https://bitsbytesgates.com/pss/2023/05/07/RelatingActionsWithDataflowPart2.html)
 * [PSS CookBook](https://github.com/LeeKaiXuan/PSS_Cookbook) - Documentation for introducing the usage of PSS language
 
-
-## License
-
-[![CC0](cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Aliaksei Chapyzhenka](http://drom.io) has waived all copyright and related or neighboring rights to this work.
